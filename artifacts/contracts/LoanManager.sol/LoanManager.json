@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "LoanManager",
+  "sourceName": "contracts/LoanManager.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220978927f3cce368bca4b2f515fdab16f20b913dc3634951992414dc5cb4bc5ef864736f6c63430008140033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220978927f3cce368bca4b2f515fdab16f20b913dc3634951992414dc5cb4bc5ef864736f6c63430008140033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}

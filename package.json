@@ -1,0 +1,20 @@
+{
+  "name": "trustless-credit-dao",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^3.0.8",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@nomicfoundation/hardhat-verify": "^2.0.13",
+    "@types/node": "^22.15.3",
+    "dotenv": "^16.5.0",
+    "ethers": "^6.13.7",
+    "hardhat": "^2.23.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^5.75.2",
+    "viem": "^2.28.3",
+    "wagmi": "^2.15.2"
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/media/shivam/Developmet Work/IOTAHackathon/trustless-credit-dao/contracts/CreditOracle.sol": {
+      "lastModificationDate": 1746345493171,
+      "contentHash": "110501679515a607b9f2f2708b4bf738",
+      "sourceName": "contracts/CreditOracle.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "CreditOracle"
+      ]
+    },
+    "/media/shivam/Developmet Work/IOTAHackathon/trustless-credit-dao/contracts/LoanManager.sol": {
+      "lastModificationDate": 1746345493171,
+      "contentHash": "2223e927f0e0591748943fb1a96701ae",
+      "sourceName": "contracts/LoanManager.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "LoanManager"
+      ]
+    },
+    "/media/shivam/Developmet Work/IOTAHackathon/trustless-credit-dao/contracts/MockERC20.sol": {
+      "lastModificationDate": 1746345493172,
+      "contentHash": "2a27b2df3771eb1d119928149fa5a2a7",
+      "sourceName": "contracts/MockERC20.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "MockERC20"
+      ]
+    },
+    "/media/shivam/Developmet Work/IOTAHackathon/trustless-credit-dao/contracts/TrustlessCredit.sol": {
+      "lastModificationDate": 1746356149156,
+      "contentHash": "0ba5885f24784a62087725a584badf8d",
+      "sourceName": "contracts/TrustlessCredit.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "TrustlessCredit"
+      ]
+    },
+    "/media/shivam/Developmet Work/IOTAHackathon/trustless-credit-dao/contracts/CreditRecord.sol": {
+      "lastModificationDate": 1746364427311,
+      "contentHash": "e6baa58d9f4a890b03ed2e7c6e6ef2fc",
+      "sourceName": "contracts/CreditRecord.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "CreditRecord"
+      ]
+    },
+    "/media/shivam/Developmet Work/IOTAHackathon/trustless-credit-dao/contracts/LoanSystem.sol": {
+      "lastModificationDate": 1746365166538,
+      "contentHash": "54cae20df209a3bb72aef68b9ea33c2f",
+      "sourceName": "contracts/LoanSystem.sol",
+      "solcConfig": {
+        "version": "0.8.20",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.20"
+      ],
+      "artifacts": [
+        "LoanSystem"
+      ]
+    }
+  }
+}
